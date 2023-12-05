@@ -11,7 +11,7 @@
 <p>6. Monetization Analysis-Distribution of Game Prices</p>
 <p>7. Monetization Analysis-Price and Engagement Metrics</p>
 <p>8. Monetization Analysis-DLC count and User Engagement</p>
-<p>9. IForest for Outlier detection</p>
+<p>9. IForest for Outlier Detection</p>
 <p>10. Traditional AB Testing</p>
 <p>11. Dimensionality Reduction</p>
 <p>12. Predictive Modeling</p>

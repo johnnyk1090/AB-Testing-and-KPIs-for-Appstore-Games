@@ -10,7 +10,7 @@
 <p>5. NLP for Gaming Categories</p>
 <p>6. Monetization Analysis-Distribution of Game Prices</p>
 <p>7. Monetization Analysis-Price and Engagement Metrics</p>
-<p>8. Monetization Analysis-DLC count and User Engagement</p>
+<p>8. Monetization Analysis-DLC Count and User Engagement</p>
 <p>9. IForest for Outlier Detection</p>
 <p>10. Traditional AB Testing</p>
 <p>11. Dimensionality Reduction</p>
